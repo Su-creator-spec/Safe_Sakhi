@@ -18,7 +18,7 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 
 // ─── Google Places API Key ───────────────────────────────────────────────────
 // This is the raw API key (NOT the full URL)
-const GOOGLE_PLACES_KEY = 'AIzaSyACn5LbHpFrDZrJ9pkg1OLc4EkntvcmNsA';
+const GOOGLE_PLACES_KEY = '##';
 
 // ─── City Safety Data (from city_safety_scores.csv) ─────────────────────────
 // Zone colours: Green = safe, Orange = moderate, Red = unsafe
